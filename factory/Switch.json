@@ -1,0 +1,9 @@
+{
+	"name": "Switch",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9fcd5bf6-1513-4eae-aaf5-e75ea5c9ad1a",
+		"tenantId": "1af12067-34a6-4edd-8810-4cac7b420727"
+	}
+}
