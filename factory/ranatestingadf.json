@@ -1,0 +1,9 @@
+{
+	"name": "ranatestingadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "a4446298-8a20-4ca2-81f7-375cfb6417d9",
+		"tenantId": "1af12067-34a6-4edd-8810-4cac7b420727"
+	}
+}
