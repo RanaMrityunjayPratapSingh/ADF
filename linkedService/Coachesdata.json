@@ -1,0 +1,12 @@
+{
+	"name": "Coachesdata",
+	"properties": {
+		"annotations": [],
+		"type": "HttpServer",
+		"typeProperties": {
+			"url": "https://github.com/RanaMrityunjayPratapSingh/DataPipeline/blob/main/Coaches.csv",
+			"enableServerCertificateValidation": true,
+			"authenticationType": "Anonymous"
+		}
+	}
+}
